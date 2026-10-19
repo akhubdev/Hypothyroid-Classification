@@ -1,9 +1,18 @@
-<h1 align="center">🩺 Hypothyroid Classification</h1>
 
-<p align="center">
-Machine Learning-based Thyroid Disease Prediction System
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4C1D95,100:A78BFA&height=230&section=header&text=Hypothyroid%20Classification&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Machine%20Learning%20%7C%20Medical%20Data%20Classification&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Hypothyroid Classification"/>
+
+### Exploring Patient Data with Machine Learning
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4C1D95?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-7C3AED?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-A78BFA?style=for-the-badge&logo=jupyter&logoColor=111827)
+
+</div>
+
+---
 
 
 # Hypothyroid Classification
@@ -133,3 +142,20 @@ B.Tech Computer Science Engineering
 Data Science, Machine Learning & Deep Learning Enthusiast
 
 GitHub: akhubdev
+
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:4C1D95,100:111827&height=160&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=25&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Thank You for Visiting"/>
+
+**🧬 Thanks for exploring this Machine Learning project!**
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhubdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashdastech)
+
+**Made with 💜 by Akash Das**
+
+</div>
+
